@@ -5,7 +5,7 @@ export default function Header(){
         <header className="header">
             <img src={require("../images/troll-icon.png")} className="header--image"/>   
             <h2 className="header--title">Meme Generator</h2>
-            <h4 className="header--project">React course - Project 3</h4>
+            <h4 className="header--project"></h4>
         </header>
     )
 }
